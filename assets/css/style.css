@@ -75,7 +75,8 @@ nav.navbar {
     color: #d3d3d3 !important;
 }
 
-button:focus {
+button:focus,
+.btn:focus {
     box-shadow: none !important;
 }
 
