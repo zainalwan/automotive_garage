@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:wght@300;400;500&display=swap");
+
+body {
+    font-family: Roboto;
+    font-weight: 300;
+    color: #1d1d1d;
+}
+
+h1,
+h2 {
+    font-family: Montserrat;
+    font-weight: 700;
+}
+
+nav.navbar {
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
+.navbar-fixed {
+    background-color: #1d1d1d !important;
+    position: fixed !important;
+    margin-top: 0 !important;
+}
+
+.navbar-brand img {
+    height: 3rem;
+}
+
+.nav-link {
+    font-weight: 400;
+    color: white !important;
+}
+
+.nav-link:hover,
+.nav-link:active {
+    color: #d3d3d3 !important;
+}
+
+.hero {
+    height: 768px;
+    background-image: url("/assets/img/28803_edited.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 21rem 0 0;
+    color: white;
+}
+
+.btn {
+    border-radius: 0;
+    padding: 0.5em 3.5em;
+}
+
+.btn-primary {
+    background-color: #e3362b;
+    border-color: #e3362b;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus {
+    background-color: #cd2220;
+    border-color: #cd2220;
+}
+
+.btn-link {
+    text-decoration: none;
+}
+
+.btn-link:hover,
+.btn-link:active,
+.btn-link:focus {
+    color: #d3d3d3 !important;
+}
+
+button:focus {
+    box-shadow: none !important;
+}
+
+section.services p {
+    color: #606060;
+}
+
+section.testimonials .col {
+    background-color: #d3d3d3;
+    color: #606060;
+    border-bottom: 0.35rem solid #e3362b;
+}
+
+.footer {
+    background-color: #606060;
+    color: #d3d3d3;
+}
+
+.footer img {
+    height: 2.8em;
+}
+
+.footer svg {
+    margin: 0 0.25em;
+}
