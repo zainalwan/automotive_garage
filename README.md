@@ -9,5 +9,5 @@ This web was made using Bootstrap. The images was provided by Maxim Hopman and
 Nate Johnston on Unsplash. The icons was provided by Bootstrap.
 
 ## License
-Bootstrap uses their own license. However, this web's source code is free to
-use, study, modify, and share.
+Bootstrap and images from Unsplash use their own license. However, this web's
+source code is free to use, study, modify, and share.
