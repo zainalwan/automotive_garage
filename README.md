@@ -2,7 +2,7 @@
 
 ## Introduction
 This is a landing page website of a sample of automotive garage. The website
-just contain some informations about the company, but several links and button
+just contain some informations about the company, but several links and buttons
 didn't pointed to anything proper.
 
 This web was made using Bootstrap. The images was provided by Maxim Hopman and
